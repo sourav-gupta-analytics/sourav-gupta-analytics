@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sourav Gupta
 
-<!--
-**sourav-gupta-analytics/sourav-gupta-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA Business Analytics student at Lovely Professional University (2026-2028).
+Before the MBA, I did my BBA at DAVV, Indore and worked as a Team Leader in
+broadband customer-care operations.
 
-Here are some ideas to get you started:
+## What I'm working on
+- HUL annual report business performance analysis (Excel, Power BI)
+- Learning SQL with an e-commerce sales and delivery dataset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolkit
+- **Comfortable:** Excel, Power BI, statistics
+- **Learning:** SQL, Python
+
+## Connect
+- LinkedIn: [paste your profile link here]
