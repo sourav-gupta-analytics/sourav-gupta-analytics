@@ -13,4 +13,6 @@ broadband customer-care operations.
 - **Learning:** SQL, Python
 
 ## Connect
-- LinkedIn: [paste your profile link here]
+- LinkedIn: [www.linkedin.com/in/
+souravguptaanalyst
+]
