@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sourav Gupta — Business Analytics</title><desc id="desc">Navy and teal banner with an abstract analytical chart motif.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081425"/><stop offset="1" stop-color="#142C40"/></linearGradient><linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<g opacity=".18" stroke="#7799B4" stroke-width="1"><path d="M785 44V276M845 44V276M905 44V276M965 44V276M1025 44V276M1085 44V276M1145 44V276M785 64H1145M785 124H1145M785 184H1145M785 244H1145"/></g>
+<g fill="#4CB9C7" opacity=".26"><rect x="807" y="198" width="34" height="46" rx="4"/><rect x="867" y="172" width="34" height="72" rx="4"/><rect x="927" y="185" width="34" height="59" rx="4"/><rect x="987" y="133" width="34" height="111" rx="4"/><rect x="1047" y="109" width="34" height="135" rx="4"/><rect x="1107" y="76" width="34" height="168" rx="4"/></g>
+<path d="M824 171L884 143L944 156L1004 104L1064 88L1124 54" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#5EEAD4"><circle cx="824" cy="171" r="5"/><circle cx="884" cy="143" r="5"/><circle cx="944" cy="156" r="5"/><circle cx="1004" cy="104" r="5"/><circle cx="1064" cy="88" r="5"/><circle cx="1124" cy="54" r="5"/></g>
+<rect x="64" y="58" width="44" height="4" rx="2" fill="#5EEAD4"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="64" y="94" fill="#84E4DB" font-size="17" font-weight="700" letter-spacing="3">BUSINESS ANALYTICS PORTFOLIO</text><text x="60" y="169" fill="#F5F8FC" font-size="66" font-weight="700">Sourav Gupta</text><text x="64" y="211" fill="#C1D4E3" font-size="25">Turning data into business decisions.</text><text x="64" y="265" fill="#A8C4D5" font-size="17">MBA BUSINESS ANALYTICS  /  EXCEL  /  POWER BI  /  SQL</text></g>
+</svg>
