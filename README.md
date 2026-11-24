@@ -18,10 +18,10 @@ I am developing practical analytics skills to connect business questions with re
 
 | Case study | Business question | Tools | Status |
 | --- | --- | --- | --- |
-| [Hindustan Unilever — Annual Report Analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis) | How are revenue, segment performance, margins and costs changing? | Excel, Power BI | In progress — project scope and documentation |
+| [Hindustan Unilever — Annual Report Analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis) | How are revenue, segment performance, margins and costs changing? | Excel, Power BI | Verified analysis published — Power BI build pending |
 | E-commerce Sales & Delivery Analytics | What drives sales performance, delivery delays and customer experience? | SQL, Power BI | Learning project — not yet published |
 
-The HUL repository currently contains project documentation, not a finished dashboard or verified results. Completed work will be linked here as evidence becomes available.
+The HUL case study contains verified annual-report data, calculated findings, an executive case study, a static financial preview and a Power BI-ready model. The native Power BI report remains pending.
 
 ## Analytics toolkit
 
