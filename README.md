@@ -20,7 +20,7 @@ I am developing practical analytics skills to connect business questions with re
 | --- | --- | --- | --- |
 | [Hindustan Unilever — Annual Report Analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis) | How are revenue, segment performance, margins and costs changing? | Excel, Power BI | Published — three-page Power BI Desktop report |
 | [CampusDesk — Multilingual Complaint Router](projects/campusdesk/README.md) · [Live demo](https://hinglish-complaint-router.netlify.app/) | How can multilingual campus complaints be classified and routed with human escalation? | JavaScript, Node.js, SQLite | Hackathon prototype — 180/180 known synthetic cases, 8/8 tests passed |
-| E-commerce Sales & Delivery Analytics | What drives sales performance, delivery delays and customer experience? | SQL, Power BI | Learning project — not yet published |
+| [E-commerce Sales, Retention & Delivery Intelligence](https://github.com/sourav-gupta-analytics/olist-ecommerce-bi) | How did delivered merchandise sales, repeat purchases and delivery timeliness vary across a marketplace? | SQLite, Python, Power BI | Published — 10 reproducible SQL reports |
 
 CampusDesk was built for Code Fuzion 2026 (M1) at LPU. The classifier achieved 100% on 180 known synthetic regression examples; independent unseen-case performance and operational impact are unverified.
 
