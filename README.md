@@ -2,55 +2,41 @@
 
 # Sourav Gupta
 
-**MBA Business Analytics (2026–2028) · Lovely Professional University, India**
+**MBA Business Analytics at Lovely Professional University (2026–2028) · Aspiring Business Intelligence Analyst**
 
-[LinkedIn](https://www.linkedin.com/in/souravguptaanalyst/) · [Analytics repositories](https://github.com/sourav-gupta-analytics?tab=repositories)
+[Portfolio](https://souravgupta.vercel.app/) · [Résumé](https://souravgupta.vercel.app/sourav-gupta-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/souravguptaanalyst/) · [Behance](https://www.behance.net/souravgupta38)
 
-## About me
+I use Excel, SQL and Power BI to explain changes in financial performance, customer retention and delivery. My background is in marketing management and broadband customer-care operations, where I led a 12-person team and tracked service KPIs.
 
-I am an MBA Business Analytics student with a BBA in Marketing Management from Devi Ahilya Vishwavidyalaya, Indore. My background includes team leadership in broadband customer-care operations and a social media management internship.
+## Selected projects
 
-I am developing practical analytics skills to connect business questions with reliable data, clear visualizations and actionable recommendations. My interests include business intelligence, financial performance, customer analytics and business strategy.
+### [Hindustan Unilever annual report analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis)
 
-**Target roles:** Business Analyst · Data Analyst · Business Intelligence Analyst
+Compared turnover, EBITDA margins and segment performance across comparable standalone results for FY25 and FY26. The repository includes the Excel source workbook, financial findings and a three-page Power BI Desktop report.
 
-## Analytics portfolio
+[Dashboard screenshots](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/tree/main/dashboard) · [Editable Power BI project](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/raw/refs/heads/main/dashboard/HUL_PowerBI_Project.zip)
 
-| Case study | Business question | Tools | Status |
-| --- | --- | --- | --- |
-| [Hindustan Unilever — Annual Report Analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis) | How are revenue, segment performance, margins and costs changing? | Excel, Power BI | Published — three-page Power BI Desktop report |
-| [CampusDesk — Multilingual Complaint Router](projects/campusdesk/README.md) · [Live demo](https://hinglish-complaint-router.netlify.app/) | How can multilingual campus complaints be classified and routed with human escalation? | JavaScript, Node.js, SQLite | Hackathon prototype — 180/180 known synthetic cases, 8/8 tests passed |
-| [E-commerce Sales, Retention & Delivery Intelligence](https://github.com/sourav-gupta-analytics/olist-ecommerce-bi) | How did delivered merchandise sales, repeat purchases and delivery timeliness vary across a marketplace? | SQLite, Python, Power BI | Published — 10 reproducible SQL reports |
+### [E-commerce sales, retention and delivery intelligence](https://github.com/sourav-gupta-analytics/olist-ecommerce-bi)
 
-CampusDesk was built for Code Fuzion 2026 (M1) at LPU. The classifier achieved 100% on 180 known synthetic regression examples; independent unseen-case performance and operational impact are unverified.
+Used a historical Olist dataset of 99,441 orders to analyze delivered merchandise sales, repeat purchases and delivery timeliness. The case study includes 10 reproducible SQLite reports, a Python runner and Power BI validation notes.
 
-The HUL case study includes comparable annual-report data, financial findings, and a three-page Power BI Desktop report with 28 measures. [Dashboard gallery](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/tree/main/dashboard) · [Editable project download](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/raw/refs/heads/main/dashboard/HUL_PowerBI_Project.zip). Selected Desktop outputs were verified; no Power BI Service deployment.
+### [CampusDesk multilingual complaint router](projects/campusdesk/README.md)
 
-## Analytics toolkit
+Our team built this Code Fuzion 2026 prototype at LPU to route English, Hinglish and romanized Punjabi complaints with a human review workflow. The documented benchmark covers 180 known synthetic examples and the repository includes eight automated tests. Independent performance on unseen complaints is still unverified.
 
-| Area | Tools and focus |
-| --- | --- |
-| Data analysis | Excel, descriptive statistics |
-| Business intelligence | Power BI, data visualization |
-| Developing skills | SQL, Python |
-| Business context | Marketing, financial analysis, operations, stakeholder communication |
+[Live prototype](https://hinglish-complaint-router.netlify.app/)
 
-## How I approach analytics
+## Skills and credentials
 
-**Business question → Data quality → Analysis → Visualization → Recommendations**
+- **Excel and Power BI:** financial benchmarking, dashboard design and business reporting.
+- **SQL and Python:** SQLite analysis, repeatable reports and data validation.
+- **Professional development:** Microsoft and LinkedIn Career Essentials in Data Analysis, LinkedIn Learning courses in business analysis, and the EY AI Series. [View certificate evidence](https://souravgupta.vercel.app/#certifications)
 
-My goal is to document the data source, assumptions, methodology and limitations so that each case study can be reviewed and reproduced.
+## Education and experience
 
-## Education & experience
+- **MBA, Business Analytics** at Lovely Professional University, Punjab, 2026–2028.
+- **BBA, Marketing Management** at Devi Ahilya Vishwavidyalaya, Indore.
+- **Team Leader, broadband customer care** at Altruist Technologies Pvt Ltd, Indore.
+- **Social Media Management Intern** at Shark Outreach. [View experience](https://souravgupta.vercel.app/#experience)
 
-- **MBA, Business Analytics** — Lovely Professional University (2026–2028)
-- **BBA, Marketing Management** — Devi Ahilya Vishwavidyalaya, Indore
-- **Team Leader** — broadband customer-care operations
-- **Internship** — social media management
-
-## Connect
-
-I am interested in business analytics and business intelligence internship opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/souravguptaanalyst/).
-
----
-*Portfolio under active development. Project status reflects the evidence currently published.*
+I’m interested in BI and business analytics internships. My next priorities are to document individual project contributions more clearly and validate CampusDesk on new examples. [Connect on LinkedIn](https://www.linkedin.com/in/souravguptaanalyst/)
