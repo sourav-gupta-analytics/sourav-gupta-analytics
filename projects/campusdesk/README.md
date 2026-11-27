@@ -2,11 +2,19 @@
 
 **Code Fuzion 2026 · Lovely Professional University · 24-hour hackathon · M1 (Moderate)**
 
-[Open hosted demo](https://hinglish-complaint-router.netlify.app/) · [Back to portfolio](../../README.md)
+[Open hosted demo](https://hinglish-complaint-router.netlify.app/) · [Portfolio](https://souravgupta.vercel.app/#projects) · [GitHub profile README](../../README.md)
 
 ## Executive summary
 
-CampusDesk is a campus service-desk prototype that transforms unstructured English, Hinglish and romanised Punjabi complaints into structured, prioritized tickets. The project addresses manual sorting errors and helps staff identify the responsible department, location and urgency.
+CampusDesk is a service-desk prototype that converts campus complaints in English, Hinglish and romanised Punjabi into structured tickets. It predicts the responsible department, extracts the reported location, prioritizes urgency and flags uncertain results for staff review.
+
+## Try the demo
+
+1. In **New complaint**, select the **English**, **Hinglish** or **Punjabi** sample to prefill the form.
+2. Select **Route complaint** to see the predicted department, location and urgency in **Latest result**.
+3. Try the **Unclear** sample and check **Ticket queues** for the review workflow.
+
+The hosted page was verified to load on 28 November 2026.
 
 ## Business problem and requirements
 
@@ -53,15 +61,15 @@ These are regression datasets used during development, not independent unseen ju
 
 ## Limitations and next steps
 
-The rule-based score is not a calibrated probability. Unseen dialects, ambiguous multi-issue reports and spelling variants require broader independent evaluation. A production service needs authentication, authorization, privacy and retention policies, monitoring, and campus-user validation. The hosted demo URL is supplied by the participant; the live page could not be independently retrieved during this audit.
+The rule-based score is not a calibrated probability. Unseen dialects, ambiguous multi-issue reports and spelling variants require broader independent evaluation. A production service needs authentication, authorization, privacy and retention policies, monitoring, and campus-user validation.
 
 ## Source history and release readiness
 
 The supplied Git bundle was verified with Git's integrity checks: seven original commits, 43 unique historical file blobs (41 text, two binary), and no matching common credential, private key, email, Indian mobile or 12-digit identifier patterns in historical text. No environment, key or SQLite database files were tracked. The two current image assets had no EXIF tags. This targeted scan is not a security certification.
 
-A separate history-preserving source package has been prepared with one additional documentation commit, retaining all seven original commit hashes. The source repository is not yet published; publication requires creation of a separate repository and confirmation of team and asset permissions. The public case study intentionally contains no source-code redistribution.
+A separate history-preserving source package contains one additional documentation commit and retains all seven original commit hashes. The source repository is private. A public source release depends on team and asset permissions.
 
-A fresh rerun again returned 180/180 known synthetic cases and 8/8 automated tests. The local shared API remains unauthenticated; use only synthetic data and do not expose the server publicly without access controls.
+The local shared API is intended for synthetic data in a controlled environment. Public deployment requires access controls.
 
 ## Attribution
 
