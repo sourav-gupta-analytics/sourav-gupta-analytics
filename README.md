@@ -12,17 +12,17 @@ I use Excel, SQL and Power BI to explain changes in financial performance, custo
 
 ### [Hindustan Unilever annual report analysis](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis)
 
-Compared turnover, EBITDA margins and segment performance across comparable standalone results for FY25 and FY26. The repository includes the Excel source workbook, financial findings and a three-page Power BI Desktop report.
+Compared turnover, EBITDA margins and segment performance across comparable standalone results for FY25 and FY26. The repository includes annual-report source references, financial findings, and an editable three-page Power BI Desktop report.
 
 [Dashboard screenshots](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/tree/main/dashboard) · [Editable Power BI project](https://github.com/sourav-gupta-analytics/hul-annual-report-analysis/raw/refs/heads/main/dashboard/HUL_PowerBI_Project.zip)
 
 ### [E-commerce sales, retention and delivery intelligence](https://github.com/sourav-gupta-analytics/olist-ecommerce-bi)
 
-Used a historical Olist dataset of 99,441 orders to analyze delivered merchandise sales, repeat purchases and delivery timeliness. The case study includes 10 reproducible SQLite reports, a Python runner and Power BI validation notes.
+Used a historical Olist dataset of 99,441 orders to analyze delivered merchandise sales, repeat purchases and delivery timeliness. The case study includes 10 reproducible SQLite reports, a Python runner and Power BI report methodology.
 
 ### [CampusDesk multilingual complaint router](projects/campusdesk/README.md)
 
-Our team built this Code Fuzion 2026 prototype at LPU to route English, Hinglish and romanized Punjabi complaints with a human review workflow. The documented benchmark covers 180 known synthetic examples and the repository includes eight automated tests. Independent performance on unseen complaints is still unverified.
+Our team built this Code Fuzion 2026 prototype at LPU to route English, Hinglish and romanized Punjabi complaints with a human review workflow. The documented benchmark covers 180 known synthetic examples. Eight automated tests passed in a rerun against the project source. Performance on unseen complaints remains unverified.
 
 [Live prototype](https://hinglish-complaint-router.netlify.app/)
 
